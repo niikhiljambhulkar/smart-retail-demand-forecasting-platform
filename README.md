@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/9e2aeef6-23f6-4b80-b98a-892fc7079cfe" /># Smart Retail Demand Forecasting Platform
+# Smart Retail Demand Forecasting Platform
 
 End-to-End Retail Analytics Solution built using:
 - PostgreSQL
